@@ -1,2 +1,3 @@
-# alpine-js-tutorial
-Tutorial for Alpine.js Library
+# Alpine.js Library Tutorial
+
+Reference YouTube Video: https://www.youtube.com/watch?v=r5iWCtfltso 
